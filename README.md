@@ -1,4 +1,4 @@
-# automates-tests
+# automated-tests
 IT Academy Test Automation
 
 Needs chrome
